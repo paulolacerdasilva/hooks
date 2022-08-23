@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    background-color: bisque;
+    font-size: 25px;
+    font-style: normal;
+    flex-direction: column;
+}
